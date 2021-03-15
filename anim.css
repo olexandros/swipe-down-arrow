@@ -33,13 +33,15 @@ span {
 .right-part {
      height: 150px;
      position: absolute;;
-     left: 50px;
-     bottom: 0px;
+     left: 55px;
+     bottom: -7px;
+     transform: rotate(45deg);
 }
 
 .left-part {
      height: 150px;
      position: absolute;;
-     right: 50px;
-     bottom: 0px;
+     right: 55px;
+     bottom: -7px;
+     transform: rotate(-45deg);
 }
