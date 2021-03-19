@@ -5,7 +5,7 @@
 }
 
 span {
-     background-color: black;
+     background-color: lightcyan;
      border-radius: 7px;
      color: bisque;
      display: inline-block;
@@ -15,7 +15,7 @@ span {
 }
 
 .container {
-     background-color: chartreuse;
+     background-color: blue;
      width: 500px;
      height: 500px;
      position: relative;
